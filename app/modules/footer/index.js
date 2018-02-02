@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="screen_desktop">   
             <footer className="footer_container"> 
                 <div className="footer_title flex_column_center">
-                    <span>Developed by Shiva Vatigunta</span>   
+                    <span>Developed by Shiva</span>   
                 </div>            
             </footer>
           </div>

@@ -2,7 +2,7 @@
 FROM node:8.5.0-alpine
 
 #Maintainer.
-MAINTAINER Shiva Vatigunta <shiva.network559@gmail.com>
+MAINTAINER Shiva <shiva.network559@gmail.com>
     
 #Create app directory in container
 RUN mkdir -p /usr/src/app

@@ -8,7 +8,7 @@
     "start": "node server.js",
     "postinstall": "webpack -p --config ./webpack.prod.config.js"
   },
-  "author": "Shiva Vatigunta",
+  "author": "Shiva",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.15.3",
