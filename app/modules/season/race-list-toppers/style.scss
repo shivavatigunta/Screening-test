@@ -1,0 +1,25 @@
+.page_race_container {
+	width: 500px;	
+	margin-top:10px;
+	.table_wrap{
+		height: auto;
+		max-height: 78vh;
+		overflow-y: auto;
+    	width:100%;
+    	box-shadow: 0 1px 2px rgba(0,0,0,0.16);      	
+	}
+}
+
+/*Media screen for max 400px screen*/
+@media screen and (max-device-width: 400px) { 
+	.page_race_container {
+		width: 97.5%;			
+	}
+}
+
+/*Media screen for in between 400px and 736px*/
+@media screen and (min-device-width: 400px) and (max-device-width: 736px) { 
+	.page_race_container {
+		width: 90%;			
+	}
+}

@@ -1,0 +1,19 @@
+.page_info_strip{
+	width: 100%;
+	height:38px;
+
+	.strip_wrap{
+		width:100%;
+	}	
+	span{
+		font-size: 14px;	
+	}
+	i{
+		font-size: 16px;
+		margin-top: 3px;	
+	}
+	.err_strip{
+		color: red;
+	}	
+}
+

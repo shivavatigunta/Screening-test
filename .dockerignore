@@ -1,0 +1,6 @@
+.git/
+node_modules/
+.vscode/
+build/
+bundle.min.js
+bundle.min.js.map
