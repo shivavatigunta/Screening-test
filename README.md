@@ -29,10 +29,10 @@ Run following commands from the root of the directory to pick up Dockerfile
 
 ```
 docker build -t <tagname> .
-docker run -d -p 8080:8080 <tagname>
+docker run -d -p 4040:4040 <tagname>
 ```
-which runs a nodejs server on port on 8080. End point is http://<docker-machine-ip>:8080 
+which runs a nodejs server on port on 4040. End point is http://<docker-machine-ip>:4040 
 
 ## Love :heart: to hear feedback from you
-Shiva Vatigunta,coffee lover
+Shiva Vatigunta, coffee lover
 shiva.network559@gmail.com
