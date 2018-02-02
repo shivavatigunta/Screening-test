@@ -34,5 +34,5 @@ docker run -d -p 4040:4040 <tagname>
 which runs a nodejs server on port on 4040. End point is http://<docker-machine-ip>:4040 
 
 ## Love :heart: to hear feedback from you
-Shiva Vatigunta, coffee lover
+Shiva, coffee lover
 shiva.network559@gmail.com
